@@ -1,0 +1,15 @@
+{
+    ".url": {
+        "com.synocommunity.packages.apt-cacher-ng": {
+            "title": "apt-cacher-ng",
+            "desc": "apt-cacher-ng",
+            "icon": "images/apt-cacher-ng-{0}.png",
+            "type": "url",
+            "protocol": "http",
+            "port": "3142",
+            "url": "/",
+            "allUsers": true,
+            "grantPrivilege": "local"
+        }
+    }
+}
